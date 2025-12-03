@@ -31,6 +31,13 @@ const projects = [
         description: 'Designed a custom price prediction model for multiple SKUs. Built an end-to-end pipeline on GCP Vertex AI with real-time and batch processing APIs.',
         tags: ['Regression', 'Vertex AI', 'Time Series', 'Orchestration'],
         links: { demo: '#', github: '#' }
+    },
+    {
+        id: 5,
+        title: 'Network Traffic Prediction to Website',
+        description: 'Desinged API to predict the Session Traffic and used LLM to suggest the topic and angles to the editorial team',
+        tags: ['GCP Vertex AI', 'Python', 'API', 'LLM', 'Vector Search', 'SerpAPI', 'Editorial Team'],
+        links: { demo: '#', github: '#' }
     }
 ];
 
